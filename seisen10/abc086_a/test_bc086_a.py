@@ -1,6 +1,6 @@
 # 1.ファイル名は「test_対象のモジュール名.py」とする
 import unittest
-from .bc086_a import decide_even_or_odd
+from .abc086_a import decide_even_or_odd
 
 class TestBc086A(unittest.TestCase):
  
