@@ -5,3 +5,4 @@ for num in to_list:
     if int(num) == 1:
         counter += 1
 print(counter)
+print("fdafadsa")
